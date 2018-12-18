@@ -1,1 +1,1 @@
-alert('hello world in TypeScript xxxxxx!');
+alert('hello world in TypeScript xxxxxx!commit to github1');
